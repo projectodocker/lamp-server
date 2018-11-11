@@ -4,6 +4,6 @@
 
 Este docker compose nosejecutara un contenedor con  apache+php. otron contenedor con mysql y otro contendor con phpmyadmin
 
-##comandos
+## comandos
 
 -$ dockercompose up
